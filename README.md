@@ -30,5 +30,7 @@ Completado el proceso anterior podrá trabajar con la librería proporcionada.
 # Archivos
 Se encontraran dos archivos los cuales son:
 Carpeta ClasicToQuantum: Dentro de la misma podra encontrar el taller que vendra adjunto a las respectivas imagenes que tendra el taller 
+
 README
+
 .gitignore
